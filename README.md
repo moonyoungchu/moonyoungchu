@@ -7,9 +7,9 @@
 Hi, I am a nice frontend developer💪
 <br/><br/>
 
-#### 🤾‍♂️main skill
+#### 🤾‍ Main skill
 <p>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?&logo=javascript&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />&nbsp   
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" /><br/>
@@ -17,16 +17,19 @@ Hi, I am a nice frontend developer💪
   <img src="https://img.shields.io/badge/CSS3-F68212?&logo=CSS3&logoColor=white"/>&nbsp
 </p>
 
-#### 🤾‍♂️sub skill (trying to use)
+#### 🤾‍♂️ Sub skill (trying to use)
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
 </p>
 
-#### 🤾‍♂️tools
+#### 🤾‍ Tools
 <p>
-    <img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-000000?e&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git/Github-F05032?&logo=Git&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?&logo=Sourcetree&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Jira/Wiki-0052CC?&logo=Jira&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/VScode-007ACC?&logo=Visual Studio Code&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/PyCharm-000000?&logo=PyCharm&logoColor=white"/></a> 
 </p>

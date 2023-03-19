@@ -1,14 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20Moonyoung&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
-
-
-
-## Moonyoung Chu 🤭
+## Moonyoung Chu 🌼
 Hi, I am a nice frontend developer💪
 <br/>
 
 #### 🤾‍ Main skill
 <p>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?&logo=javascript&logoColor=black"/></a>&nbsp 
+  <img title="JavaScript" alt="JavaScript badge" src="https://img.shields.io/badge/ES6-JavaScript-FFCA28?style&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />&nbsp   
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />&nbsp 

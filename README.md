@@ -14,11 +14,11 @@ Hi, I am a nice frontend developer💪
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> -->
   <br/>
   <img src="https://img.shields.io/badge/Git/Github-F05032?&logo=Git&logoColor=white&style=flat-square"/></a> 
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?&logo=Sourcetree&logoColor=white&style=flat-square"/></a> 
+<!--   <img src="https://img.shields.io/badge/Sourcetree-0052CC?&logo=Sourcetree&logoColor=white&style=flat-square"/></a>  -->
   <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white&style=flat-square"/></a> 
   <img src="https://img.shields.io/badge/Jira/Wiki-0052CC?&logo=Jira&logoColor=white&style=flat-square"/></a> 
-  <img src="https://img.shields.io/badge/VScode-007ACC?&logo=Visual Studio Code&logoColor=white&style=flat-square"/></a> 
-  <img src="https://img.shields.io/badge/PyCharm-000000?&logo=PyCharm&logoColor=white&style=flat-square"/></a> 
+<!--   <img src="https://img.shields.io/badge/VScode-007ACC?&logo=Visual Studio Code&logoColor=white&style=flat-square"/></a> 
+  <img src="https://img.shields.io/badge/PyCharm-000000?&logo=PyCharm&logoColor=white&style=flat-square"/></a>  -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 </p>
 

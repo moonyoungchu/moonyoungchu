@@ -1,5 +1,4 @@
-## Moonyoung Chu 
-Hi, I am a nice frontend developer💪
+## Moonyoung Chu 🏋️‍♀️
 
 #### Can use
 <p>

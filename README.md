@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> -->
-  <br/>
   <img src="https://img.shields.io/badge/Git/Github-F05032?&logo=Git&logoColor=white&style=flat-square"/></a> 
 <!--   <img src="https://img.shields.io/badge/Sourcetree-0052CC?&logo=Sourcetree&logoColor=white&style=flat-square"/></a>  -->
   <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white&style=flat-square"/></a> 

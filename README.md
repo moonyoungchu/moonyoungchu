@@ -1,10 +1,11 @@
 ## Moonyoung Chu 🏋️‍♀️
 
-#### Can use
+#### Main skill
 <p>
   <img title="JavaScript" alt="JavaScript badge" src="https://img.shields.io/badge/ES6-JavaScript-FFCA28?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-F68212?&logo=CSS3&logoColor=white"/>&nbsp
@@ -20,10 +21,8 @@
 <!--   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> -->
 </p>
 
-#### Keep studying
+#### Try to use (Sub skill)
 <p>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>

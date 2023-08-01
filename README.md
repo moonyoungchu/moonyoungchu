@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-F68212?&logo=CSS3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git/Github-F05032?&logo=Git&logoColor=white&style=flat-square"/>
 </p>
 
@@ -22,7 +22,7 @@
 </p>
 
 
-### About me 
+### About me :
 - 커피☕️ 맥주🍺 강아지🐶 식물키우기🌿 여행✈️을 좋아해요
 - 요즘은 영상편집🎥이 취미예요
 - 개발은 늘 새로운 게 재밌어요💡
